@@ -12,4 +12,8 @@ Details:
 *	As a result, the school’s version of a solution was created and rolled out for use soon after.
 
 ## Home Page
+<img width="1440" alt="Home Page" src="https://github.com/user-attachments/assets/137f696f-07c0-4c22-a29b-729b581af32d" />
 
+## Footer
+
+## 
